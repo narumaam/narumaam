@@ -1,16 +1,61 @@
-## Hi there 👋
+# Narayan Mallapur
 
-<!--
-**narumaam/narumaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Travel-tech entrepreneur building AI-powered SaaS products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Building
+
+* AI-driven Travel CRM for agencies and tour operators
+* Viva Career Academy (EdTech for travel, tourism, hospitality)
+* Automation systems for lead management, itinerary generation, and sales workflows
+
+---
+
+## Background
+
+* 30+ years in travel and tourism
+* Built and scaled travel businesses and tech platforms
+* Now focused on solving operational inefficiencies using AI
+
+---
+
+## Current Focus Areas
+
+* AI-assisted itinerary generation
+* CRM systems with integrated communication and automation
+* SaaS products for small and mid-sized travel businesses
+
+---
+
+## Featured Work
+
+* Travel CRM (AI-enabled workflow system)
+* Itinerary Builder Engine
+* Lead Management Automation
+* EdTech Platform for Travel Careers
+
+---
+
+## Approach
+
+I build practical systems that solve real-world business problems.
+Speed, usability, and execution matter more than theory.
+
+---
+
+## Open To
+
+* Strategic collaborations
+* Product partnerships
+* Early adopters in travel tech
+
+---
+
+
+## 📫 Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/narayanmallapur
+- Website: getnama.app  vivacareeracademy.com
+
+---
